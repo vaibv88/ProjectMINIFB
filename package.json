@@ -1,0 +1,16 @@
+{
+  "name": "first_express_job",
+  "author": "vaibhav.thechamp",
+  "private": true,
+  "version": "0.0.1",
+
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  },
+  "scripts": {
+    "start":"node app"
+  }
+}
